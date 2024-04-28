@@ -1,0 +1,21 @@
+{
+  "name": "draw_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "lowdb": "^7.0.1",
+    "nanoid": "^5.0.6",
+    "socket.io": "^4.7.5",
+    "supervisor": "^0.12.0"
+  }
+}
